@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-jam-1700.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\jam.cpp.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\jamCharacter.cpp.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\jamGameMode.cpp.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\MyCharacter.cpp.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\MyCharacterVER2.cpp.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\jam.init.gen.cpp.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\jamCharacter.gen.cpp.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\jamGameMode.gen.cpp.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\MyCharacter.gen.cpp.obj"
+"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\jam\MyCharacterVER2.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\jam\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\realsound\hiyo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-jam-1700.lib"
