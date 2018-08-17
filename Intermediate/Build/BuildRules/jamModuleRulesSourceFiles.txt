@@ -1,3 +1,0 @@
-E:\realsound\hiyo\Source\jam\jam.Build.cs
-E:\realsound\hiyo\Source\jam.Target.cs
-E:\realsound\hiyo\Source\jamEditor.Target.cs

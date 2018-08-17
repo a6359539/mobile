@@ -1,0 +1,32 @@
+Begin Object Class=/Script/Paper2D.PaperSpriteAtlas Name="NewPaperSpriteAtlasaa"
+   Begin Object Class=/Script/Engine.Texture2D Name="Texture2D_4"
+      Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+      End Object
+   End Object
+   Begin Object Name="Texture2D_4"
+      Begin Object Name="AssetImportData"
+      End Object
+      AddressX=TA_Clamp
+      AddressY=TA_Clamp
+      ImportedSize=(X=4096,Y=4096)
+      Source=(Id=D29F583F4296121131A189AB51E10BEF,SizeX=4096,SizeY=4096,NumSlices=1,NumMips=1,bPNGCompressed=True,Format=TSF_BGRA8)
+      LightingGuid=10FAD41E4B49F64988DCAABE295B2F90
+      AssetImportData=AssetImportData'"AssetImportData"'
+      AssetUserData(0)=None
+   End Object
+   AtlasDescription="AS"
+   MaxWidth=4096
+   MaxHeight=4096
+   PaddingType=PadWithZero
+   Filter=TF_Default
+   GeneratedTextures(0)=Texture2D'"Texture2D_4"'
+   AtlasGUID=BEE950E24091372E7E152C8765713FB4
+   AtlasSlots(0)=(SpriteRef=/Game/wonseok/Maps/Textures/T_Gravel_D_R_Sprite.T_Gravel_D_R_Sprite,Width=1026,Height=1026)
+   AtlasSlots(1)=(SpriteRef=/Game/wonseok/Maps/Textures/T_Grass_D_Sprite.T_Grass_D_Sprite,Y=1026,Width=1026,Height=1026)
+   AtlasSlots(2)=(X=1026,Width=3070,Height=4096)
+   AtlasSlots(3)=(Y=2052,Width=1026,Height=2044)
+   NumIncrementalBuilds=1
+   BuiltWidth=4096
+   BuiltHeight=4096
+   BuiltPadding=1
+End Object
